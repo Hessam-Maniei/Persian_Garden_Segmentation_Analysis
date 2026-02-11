@@ -1,6 +1,6 @@
 # Persian_Garden_Segmentation_Analysis
 Deep learning–based semantic segmentation of Persian garden images (Fin Garden, Kashan) using U-Net.
-
+we use images which are annotated in  Roboflow. 
 # Persian Garden Segmentation Analysis
 
 This repository contains a deep learning–based semantic segmentation project focusing on
